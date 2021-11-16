@@ -55,6 +55,10 @@ pipeline{
              }
              else if("${git_branch}"=="deploy"){
                  println "this is deploy"
+                 else {
+                     println "this is wrong"
+                 }
+
              }
           }
         }
