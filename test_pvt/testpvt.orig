@@ -1,0 +1,6 @@
+this is in cli
+<<<<<<< HEAD
+this is in also cli 
+=======
+this is in ui
+>>>>>>> 55cb7311684bf0c26743fe1eb7df9324968a7f00
